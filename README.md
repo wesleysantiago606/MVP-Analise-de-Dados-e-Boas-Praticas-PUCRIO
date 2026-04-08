@@ -2,6 +2,7 @@
 ## Risco de Crédito – Estimação de Probabilidade de Default (PD)
 
 ##Link de execução do Colab
+
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wesleysantiago606/MVP-Analise-de-Dados-e-Boas-Praticas-PUCRIO/blob/main/MVP_Analise_Dados_Risco_Credito_Wesley_Santiago.ipynb)
 
 Projeto desenvolvido como MVP da Pós-Graduação em Ciência de Dados e Analytics da PUC-Rio, contemplando as disciplinas de Análise Exploratória e Pré-processamento de Dados, Visualização da Informação e Engenharia de Software para Ciência de Dados.
